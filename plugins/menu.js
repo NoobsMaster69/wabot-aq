@@ -31,7 +31,7 @@ let tags = {
 const defaultMenu = {
   before: `
 ╭─「 %me 」
-│ Hai, %name!
+│ Hai, %name! Janga Lupa Filmnya drivetkj.xyz
 │
 │ Tersisa *%limit Limit*
 │ Role *%role*
@@ -44,8 +44,8 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
+│
+│
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
